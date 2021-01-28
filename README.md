@@ -1,3 +1,10 @@
 ### Hi there 👋
 
-I'm building [Pikaso](https://pikaso.me) and [PostSheet](https://postsheet.com). Check them out.
+I'm working on a few projects:
+
+* [Pikaso](https://pikaso.me)
+* [PostSheet](https://postsheet.com)
+* [Volt](https://volt.fm)
+
+Let's connect on Twitter:
+* [@soheilpro](https://twitter.com/soheilpro)
