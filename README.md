@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm working on a few projects:
+Please check out my projects:
 
 * [Pikaso](https://pikaso.me)
 * [PostSheet](https://postsheet.com)
 * [Volt](https://volt.fm)
 
-Let's connect on Twitter:
+And let's connect on Twitter:
 * [@soheilpro](https://twitter.com/soheilpro)
