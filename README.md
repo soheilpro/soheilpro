@@ -7,4 +7,4 @@ Please check out my projects:
 * [volt.fm](https://volt.fm)
 
 And let's connect on Twitter:
-* [@soheilpro](https://twitter.com/soheilpro)
+* [twitter.com/soheilpro](https://twitter.com/soheilpro)
