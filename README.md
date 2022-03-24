@@ -5,4 +5,4 @@ Hey there 👋
 - 🚪 I've sold [postsheet.com](https://postsheet.com).
 - 🔥 My products are used by 530000+ people!
 
-Follow me story as an indie maker and software developer on Twitter: [twitter.com/soheilpro](https://twitter.com/soheilpro)
+Follow me on Twitter: [twitter.com/soheilpro](https://twitter.com/soheilpro)
