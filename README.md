@@ -1,7 +1,5 @@
-👨‍💻 Indie maker
+Hey there 👋
 
-🚀 Building @voltfm_ and @pikaso_me
-
-🚪 Sold @postsheethq
-
-🔥 My products are used by 530000+ people
+- I'm an indie maker currently building volt.fm and pikaso.me.
+- I've sold postsheet.com
+- My products are used by 530000+ people
